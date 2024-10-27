@@ -1,5 +1,8 @@
-## Hi there 👋
+## WELCOME TO MY PROFILE
 
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="1100">
+
+### MY SKILLS
 <!--
 **SeisIWNL/SeisIWNL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
