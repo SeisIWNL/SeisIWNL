@@ -38,8 +38,8 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> My personal stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SeisIWNL&show_icons=false&theme=transparent&border_color=15191e&rank_icon=github"/>
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=SeisIWNL&show_icons=false&theme=transparent&border_color=15191e&rank_icon=github"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SeisIWNL&layout=compact&langs_count=10&card_width=320&theme=transparent&border_color=15191e" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SeisIWNL&layout=compact&langs_count=10&card_width=260&theme=transparent&border_color=15191e" />
 </a>
