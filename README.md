@@ -13,11 +13,8 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Joystick.png" alt="Joystick" width="25" height="25" /> &nbsp;Socials
 
 <p align="center">
-  <a href="https://steamcommunity.com/profiles/76561198840979132/">
-    <img alt="Steam" src="https://img.shields.io/badge/Steam-darkblue?style=for-the-badge&logo=steam"/>
-  </a>
   <a href="https://www.linkedin.com/in/ivan-rupay-alvarez-4451a9297/">
-      <img alt="LinkedIn" src="https://img.shields.io/badge/LikedIn-blue?style=for-the-badge&logo=linkedin"/>
+      <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
 
